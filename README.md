@@ -1,4 +1,4 @@
-![](https://pixel-profile-ui.vercel.app/api/github-stats?username=tamtamchik&include_all_commits=true&pixelate_avatar=true&theme=monica&theme=monica&color=%23ffffffFF)
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=tamtamchik&include_all_commits=true&pixelate_avatar=true&theme=monica&theme=monica&color=%23ffffffFF&hide=avatar)
 
 <!--
 **tamtamchik/tamtamchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
